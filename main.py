@@ -1,1 +1,3 @@
 table = 'стул'
+
+face = 'hand'
