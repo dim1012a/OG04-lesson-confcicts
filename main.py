@@ -4,4 +4,5 @@ face = 'hand'
 
 bed = 'bag'
 
-print(table + bed)
+print(table + bed + face)
+
